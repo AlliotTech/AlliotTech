@@ -5,7 +5,7 @@ Maker、DevOps
 ### 🌱 Status
 
 - Learning  
-- Looking for a better job for me.  
+- ~~Looking for a better job for me.~~    
 
 ### 📫My Sites
 
