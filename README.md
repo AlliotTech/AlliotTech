@@ -6,7 +6,7 @@ Maker、DevOps
 
 - Learning  
 - Working 
-- ~~Looking for a better job for me.~~    
+
 
 ### 📫My Sites
 
