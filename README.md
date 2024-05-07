@@ -23,5 +23,10 @@ Maker、DevOps、SRE Engineer.
 You can find me through my [blog](https://www.iots.vip), or you can contact me via a temporary email: dft1sq4l@duck.com.
 
 
-### 💥Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,obsidian,github,githubactions,ansible,prometheus&theme=light)](https://github.com/AlliotTech)
+### 💥Skills and Tools 
+- My Skills  
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,prometheus,grafana,elasticsearch,jenkins,python,django,vue,terraform,aws,git,nginx&theme=light)](https://github.com/AlliotTech)
+
+
+- My Tools  
+[![My Tools](https://skillicons.dev/icons?i=vscode,obsidian,md,vim,github,githubactions,pycharm&theme=light)](https://github.com/AlliotTech)
