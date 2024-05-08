@@ -25,8 +25,8 @@ You can find me through my [blog](https://www.iots.vip), or you can contact me v
 
 ### 💥Skills and Tools 
 - My Skills  
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,prometheus,grafana,elasticsearch,jenkins,python,django,vue,terraform,aws,git,nginx&theme=light)](https://github.com/AlliotTech)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,prometheus,grafana,elasticsearch,jenkins,python,django,vue,terraform,aws,nginx&theme=light)](https://github.com/AlliotTech)
 
 
 - My Tools  
-[![My Tools](https://skillicons.dev/icons?i=vscode,obsidian,md,vim,github,githubactions,pycharm&theme=light)](https://github.com/AlliotTech)
+[![My Tools](https://skillicons.dev/icons?i=vscode,obsidian,md,vim,github,git,githubactions,pycharm&theme=light)](https://github.com/AlliotTech)
